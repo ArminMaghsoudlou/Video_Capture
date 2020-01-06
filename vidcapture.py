@@ -1,4 +1,4 @@
-import cv2
+import cv2          #you need openCV installed to import this
 import datetime
 import numpy as np
 
